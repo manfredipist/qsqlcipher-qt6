@@ -3,7 +3,9 @@
 This branch builds against the Qt version **6.4.1**.
 To build for previous versions choose from the releases the one that
 matches the system's Qt version.
+
 See https://github.com/sijk/qt5-sqlcipher to build up to Qt 5.5.x
+
 See https://github.com/sjemens/qsqlcipher-qt5 to build up to Qt 5.15.x
 
 The sources for this plugin are based on the sqlite plugin from
@@ -81,9 +83,9 @@ QT_DEBUG_PLUGINS=1 ./tests/qsqlcipher_test
 
 ## Credits
 
-[sijk](https://github.com/sijk/qt5-sqlcipher)
+1. [sijk](https://github.com/sijk/qt5-sqlcipher)
 
-[sjemens](https://github.com/sjemens/qsqlcipher-qt5)
+2. [sjemens](https://github.com/sjemens/qsqlcipher-qt5)
 
 ## Licenses
 
