@@ -95,6 +95,6 @@ For this plugin see [LICENSE](https://github.com/manfredipist/qsqlcipher-qt6/blo
 
 [SQLCipher](https://www.zetetic.net/sqlcipher/license/) (**BSD**)
 
-[Qt5 libraries](https://www.qt.io/licensing/) (**LGPLV3  GPLV2/GPLV3**)
+[Qt6 libraries](https://www.qt.io/licensing/) (**LGPLV3  GPLV2/GPLV3**)
 
 
